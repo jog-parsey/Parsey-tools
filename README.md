@@ -1,8 +1,6 @@
 # Parsey tools
 
-Kode og skabeloner, som Parseys Claude-skills bruger til at bygge konkrete leverancer.
-Skills'ene selv (matching-logik, tone of voice, vurderinger) bor i Claude, ikke her —
-det her er kun den deterministiske del: render-scripts og skabeloner.
+Kode og skabeloner til interne værktøjer hos Parsey — den reproducerbare, versionsstyrede del af, hvordan vi bygger konkrete leverancer.
 
 ## Indhold
 
